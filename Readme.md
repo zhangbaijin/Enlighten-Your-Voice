@@ -15,5 +15,5 @@
 
 ## The structure of Enlighten-Your-Voice
 
-![image]([https://github.com/zhangbaijin/Enlighten-Your-Voice/blob/main/cvpr-structure.png])
+![image](https://github.com/zhangbaijin/Enlighten-Your-Voice/blob/main/cvpr-structure.png)
 # Qucikly run
