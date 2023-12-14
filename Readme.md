@@ -11,9 +11,10 @@
 </div>
 
 
-### new
+# The results 
+![image](https://github.com/zhangbaijin/Enlighten-Your-Voice/blob/main/audio-results.png)
 
 ## The structure of Enlighten-Your-Voice
 
 ![image](https://github.com/zhangbaijin/Enlighten-Your-Voice/blob/main/cvpr-structure.png)
-# Qucikly run
+
