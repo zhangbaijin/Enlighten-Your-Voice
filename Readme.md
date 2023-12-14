@@ -14,7 +14,10 @@
 # The results 
 ![image](https://github.com/zhangbaijin/Enlighten-Your-Voice/blob/main/audio-results.png)
 
-## The structure of Enlighten-Your-Voice
+# The structure of Enlighten-Your-Voice
 
 ![image](https://github.com/zhangbaijin/Enlighten-Your-Voice/blob/main/cvpr-structure.png)
 
+# SAM's compare results with sota methods
+在SICE上的对比结果如下图
+![image](https://github.com/zhangbaijin/enlighten-anything/blob/main/compare-lime.png)
