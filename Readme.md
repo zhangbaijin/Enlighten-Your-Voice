@@ -9,7 +9,10 @@
 <div align="center">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/zhangbaijin/Enlighten-Your-Voice?style=social"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/zhangbaijin/Enlighten-Your-Voice"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/zhangbaijin/Enlighten-Your-Voice?style=social">
 </div>
+
+# The paper
 https://export.arxiv.org/abs/2312.10109
+
 # The results 
 ![image](https://github.com/zhangbaijin/Enlighten-Your-Voice/blob/main/audio-results.png)
 
